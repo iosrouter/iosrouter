@@ -1,5 +1,4 @@
-iosrouter on reddit
-
-
-Python, Objective-C, JS, HTML, CSS, Lua
-
+Aspiring Developer in High School.
+Objective-C
+Python
+JavaScript
