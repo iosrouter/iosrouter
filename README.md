@@ -7,6 +7,6 @@
 <h3 align="left">Skills:</h3>
 
 <p align="left">
-  <h2>Python\n</h2?
+  <h2>Python</h2?>
   <h3>Objective-C<h3>
 </p>
